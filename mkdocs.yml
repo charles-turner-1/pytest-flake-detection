@@ -1,0 +1,10 @@
+site_name: pytest-flake-detection
+site_description: Continuously runs your tests to detect flaky tests
+site_author: Charles Turnr
+
+theme: readthedocs
+
+repo_url: https://github.com/charles-turner-1/pytest-flake-detection
+
+pages:
+- Home: index.md

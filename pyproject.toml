@@ -11,10 +11,10 @@ version = "0.1.0"
 readme = "README.rst"
 requires-python = ">=3.8"
 authors = [
-    { name = "Charles Turnr", email = "charles.turner@anu.edu.au" },
+    { name = "Charles Turner", email = "charles.turner@anu.edu.au" },
 ]
 maintainers = [
-    { name = "Charles Turnr", email = "charles.turner@anu.edu.au" },
+    { name = "Charles Turner", email = "charles.turner@anu.edu.au" },
 ]
 license = {file = "LICENSE"}
 classifiers = [

@@ -14,7 +14,8 @@ pytest-flake-detection
     :target: https://github.com/charles-turner-1/pytest-flake-detection/actions/workflows/main.yml
     :alt: See Build Status on GitHub Actions
 
-Continuously runs your tests to detect flaky tests
+Continuously runs your tests to detect flaky tests. Will default to a maximum of (99)[https://en.wikipedia.org/wiki/99_Flake] runs,
+but can be configured to run indefinitely, or any number you desire.
 
 ----
 
@@ -44,7 +45,11 @@ You can install "pytest-flake-detection" via `pip`_ from `PyPI`_::
 Usage
 -----
 
-* TODO
+```bash
+
+pytest-flake 
+
+```
 
 Contributing
 ------------

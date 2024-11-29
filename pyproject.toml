@@ -7,8 +7,8 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pytest-flake-detection"
 description = "Continuously runs your tests to detect flaky tests"
-version = "0.1.1"
-readme = "README.rst"
+version = "0.1.2"
+readme = "README.md"
 requires-python = ">=3.8"
 authors = [
     { name = "Charles Turner", email = "charles.turner@anu.edu.au" },

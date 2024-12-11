@@ -1,7 +1,7 @@
 # pytest-flake-detection
 
 
-## Adding some completely unnecessary crap - still testing if ssh keys broken- why wont this bloody work...
+## Adding some completely unnecessary crap - still testing if ssh keys broken- why in fuck wont this bloody work...
 
 Continuously runs your tests to detect flaky tests. Will default to a maximum of [99](https://en.wikipedia.org/wiki/99_Flake) runs, but can be configured to run indefinitely, or any number you desire.
 
